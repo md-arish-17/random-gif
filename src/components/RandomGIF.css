@@ -1,0 +1,28 @@
+#genBtn{
+    padding: 0.5rem;
+    width: 100%;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(190, 233, 125);
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.rnTitle{
+    margin-bottom: 15px;
+    text-decoration: underline;
+    text-align: center;
+}
+
+#srTitle{
+    margin-bottom: 15px;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.rnImg{
+    height: 50%;
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}

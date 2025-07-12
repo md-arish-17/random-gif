@@ -1,0 +1,59 @@
+/* .container{
+  background: url("./assets/background");
+  background-size: 100% 100%;
+} */
+
+.myBg{
+  height: 220%;
+  width: 140vw;
+  position: absolute;
+}
+.rnGif,.head,.srGif{
+  position: absolute;
+}
+
+.head{
+  height: 50px;
+  width: 80%;
+  background-color: rgb(83, 175, 211);
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 40px auto;
+  left: 10vw;
+}
+
+.title{
+  font-size: 1.75rem;
+}
+
+.rnGif{
+  top: 20vh;
+  left: 35%;
+  height: fit-content;
+  width: 420px;
+  background-color: rgb(136, 196, 47);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* justify-content: center; */
+  padding: 1rem;
+  border-radius: 20px;
+  border: 1px solid black;
+}
+
+.srGif{
+  top: 130vh;
+  left: 35%;
+  height: 400px;
+  width: 420px;
+  background-color: rgb(47, 107, 196);
+  display: flex;
+  /* flex-direction: column; */
+  /* align-items: center; */
+  justify-content: center;
+  padding: 1rem;
+  border: 1px solid black;
+  border-radius: 20px;
+}

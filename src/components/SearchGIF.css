@@ -1,0 +1,31 @@
+#srBtn{
+    padding: 0.5rem;
+    width: 100%;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(125, 184, 233);
+    font-weight: 700;
+}
+.serSec{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+#inpField{
+    margin-bottom: 15px;
+    padding: 0.5rem 0rem;
+    width: 100%;
+    border-radius: 10px;
+    border: none;
+    text-align: center;
+    font-weight: 700;
+}
+#srTitle{
+    margin-bottom: 15px;
+    text-decoration: underline;
+}
+.rnTitle{
+    text-transform: uppercase;
+}
